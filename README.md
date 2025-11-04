@@ -73,12 +73,12 @@ Security: Token-based SSO simulation
 🧠 Example Output
 === Actuarial Projection (Life) ===
 
-Enter SSO Token: ADMIN123
-Enter Base Premium: 1200
-Enter Coverage Amount: 500000
-Enter Term (years): 20
-Enter Mortality Rate: 0.002
-Enter Expense Load: 0.10
+Enter SSO Token: ADMIN123 <br>
+Enter Base Premium: 1200 <br>
+Enter Coverage Amount: 500000 <br>
+Enter Term (years): 20 <br>
+Enter Mortality Rate: 0.002 <br>
+Enter Expense Load: 0.10 <br>
 Enter Interest Rate: 0.04
 
 --- Results ---
