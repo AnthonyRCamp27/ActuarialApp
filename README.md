@@ -83,9 +83,9 @@ Enter Interest Rate: 0.04
 
 --- Results ---
 
-Expected Claim: $1000.00
-Gross/Loaded Premium: $1320.00
-PV of Benefits: $13,604.57
+Expected Claim: $1000.00 <br>
+Gross/Loaded Premium: $1320.00 <br>
+PV of Benefits: $13,604.57 <br>
 Net Premium per Year: $680.23
 
 🧾 Summary
