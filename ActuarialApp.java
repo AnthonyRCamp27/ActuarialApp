@@ -76,7 +76,7 @@ class ActuarialCalculator {
 // -------- Security --------
 class SSOService {
     public boolean authenticate(String token) {
-        return "ACTUARY123".equals(token); // mock
+        return "ADMIN123".equals(token); // mock
     }
 }
 
