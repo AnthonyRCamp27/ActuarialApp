@@ -72,6 +72,7 @@ Security: Token-based SSO simulation
 
 🧠 Example Output
 === Actuarial Projection (Life) ===
+
 Enter SSO Token: ADMIN123
 Enter Base Premium: 1200
 Enter Coverage Amount: 500000
@@ -81,6 +82,7 @@ Enter Expense Load: 0.10
 Enter Interest Rate: 0.04
 
 --- Results ---
+
 Expected Claim: $1000.00
 Gross/Loaded Premium: $1320.00
 PV of Benefits: $13,604.57
@@ -89,4 +91,4 @@ Net Premium per Year: $680.23
 🧾 Summary
 
 This project demonstrates how actuarial systems can be structured using object-oriented design.
-Each class models a real-world component of the actuarial process — from policies and assumptions to mathematical projections and secure access — resulting in a modular, extensible, and auditable software architecture.
+Each class models a real-world component of the actuarial process. From policies and assumptions to mathematical projections and secure access, resulting in a modular, extensible, and auditable software architecture.
